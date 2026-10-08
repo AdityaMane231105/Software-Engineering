@@ -24,7 +24,7 @@ This repository demonstrates my ability to bridge academic learning with real‑
 * **Configuration Management** – SCM techniques
 * **Software Engineering Ethics** – Importance of ethics
 * **Case Study** – Applying SE principles to a real scenario
-* \[Open the Experiment 09 login project](./Experiment-09-Software%20Engineering%20Tools%20%26%20Technologies/)
+
 
 
 
