@@ -147,8 +147,8 @@ For Placement Finder, use **bottom-up estimation for the working budget**, **ana
 
 ### Placement Finder Home Page
 
-![Placement Finder home page](<Screenshot 2026-10-10 122737.png>)
+![Placement Finder home page](placement-finder-home.png)
 
 ### Placement Finder Dashboard
 
-![Placement Finder dashboard](<Screenshot 2026-10-10 122845.png>)
+![Placement Finder dashboard](placement-finder-dashboard.png)
