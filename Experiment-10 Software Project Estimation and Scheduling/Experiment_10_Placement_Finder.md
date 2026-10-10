@@ -143,3 +143,12 @@ No single technique is best at every stage. Top-down estimation and expert judgm
 
 For Placement Finder, use **bottom-up estimation for the working budget**, **analogy or expert judgment as a cross-check**, and a **Gantt chart supported by dependency and uncertainty reviews** for scheduling. Under the assumptions in this report, the estimate is **63 person-days**, an implementation cost of **₹2,12,750 including contingency**, and a proposed duration of **six weeks**.
 
+## Project Screenshots
+
+### Placement Finder Home Page
+
+![Placement Finder home page](<Screenshot 2026-10-10 122737.png>)
+
+### Placement Finder Dashboard
+
+![Placement Finder dashboard](<Screenshot 2026-10-10 122845.png>)
