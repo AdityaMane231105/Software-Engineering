@@ -21,3 +21,27 @@ Install the tools with:
 
 ```bash
 py -m pip install pytest coverage pylint flake8
+```
+
+## Run the program
+
+```bash
+py main.py
+```
+
+Sample login: username `admin`, password `admin123`.
+
+## Run tests and coverage
+
+```bash
+py -m pytest -v
+py -m coverage run -m pytest
+py -m coverage report -m
+```
+
+## Run static analysis
+
+```bash
+py -m flake8 login.py
+py -m pylint login.py
+```
