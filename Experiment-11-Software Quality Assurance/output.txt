@@ -1,0 +1,17 @@
+Software Quality Assurance - Login Validation Output
+
+Test command: python -m pytest -v
+Result: 6 passed
+
+Passed tests:
+- test_valid_login
+- test_wrong_password
+- test_unknown_user
+- test_empty_username
+- test_short_password
+- test_long_password
+
+Sample program run:
+Username: admin
+Password: admin123
+Valid Login
