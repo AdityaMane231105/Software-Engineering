@@ -1,66 +1,9 @@
-# 🚀 Software Engineering Portfolio
+# Software Engineering Lab Experiments 5–8
 
-## 🔹 Overview
+Markdown versions of the practical records, organized into topic-named folders. GitHub renders the `README.md` in each folder automatically. Diagrams use Mermaid where suitable.
 
-A professional portfolio of software engineering projects and experiments, showcasing practical applications of industry‑relevant concepts such as SDLC models, Agile methodologies, design patterns, software architecture, testing, and project management.  
-This repository demonstrates my ability to bridge academic learning with real‑world practices, using modern tools and programming languages to deliver structured, maintainable, and well‑documented solutions.
-
-
-
-## 🔹 Experiments Included
-
-* **SDLC Models** – Compare and contrast different models
-* **Design Patterns Implementation** – Singleton, Factory, Observer
-* **Testing \& Validation Techniques** – Comparison of methods
-* **Version Control Systems** – Git vs other VCS
-* **Agile Methodologies** – Scrum, Kanban, XP
-* **Software Architecture Design** – Layered, Client‑Server, Microservices
-* **Software Maintenance \& Evolution** – Techniques comparison
-* **Human‑Computer Interaction (HCI) Design** – UI/UX approaches
-* **Software Engineering Tools \& Technologies** – IDEs, CI/CD, collaboration tools
-* **Project Estimation \& Scheduling** – Techniques comparison
-* **Software Quality Assurance** – QA methods
-* **Project Planning \& Scheduling** – Real‑world application
-* **Configuration Management** – SCM techniques
-* **Software Engineering Ethics** – Importance of ethics
-* **Case Study** – Applying SE principles to a real scenario
-
-
-
-
-## 🔹 Tools \& Technologies
-
-* **Languages**: Java, Python, C
-* **IDEs**: IntelliJ IDEA, VS Code
-* **Version Control**: Git \& GitHub
-* **Collaboration**: Agile workflows, documentation practices
-
-
-
-## 🔹 Industry Relevance
-
-* Demonstrates understanding of SDLC, Agile, and design patterns used in modern teams
-* Applies project management, QA, and configuration management principles
-* Showcases ability to work with version control and collaborative tools
-* Reflects continuous learning and adaptability
-
-
-
-## 🔹 Roadmap
-
-This repository will be continuously updated with completed experiments and extended into areas such as:
-
-* DevOps practices
-* Cloud security concepts
-* Advanced design patterns
-* UI/UX integration
-
-
-
-## 🔹 Key Highlights
-
-* Strong foundation in software engineering principles
-* Hands‑on coding and documentation of experiments
-* Industry‑aligned practices for project management and QA
-* Transparent progress with clear roadmap for future work
-
+## Experiments
+- [Experiment 5 — Version Control Systems Comparison](<Experiment-05-Version Control Systems Comparison/README.md>)
+- [Experiment 6 — Software Architecture Design](<Experiment-06-Software Architecture Design/README.md>)
+- [Experiment 7 — Software Maintenance and Evolution](<Experiment-07-Software Maintenance and Evolution/README.md>)
+- [Experiment 8 — Human-Computer Interaction (HCI) Design](<Experiment-08-Human-Computer Interaction (HCI) Design/README.md>)
