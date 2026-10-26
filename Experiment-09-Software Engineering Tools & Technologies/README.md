@@ -39,7 +39,8 @@ Experiment-09-Software Engineering Tools & Technologies/
 ├── .gitignore
 ├── README.md
 ├── screenshots/
-│   └── login-page.png
+│   ├── login-page.png
+│   └── login-success.png
 └── templates/
     └── index.html
 ```
@@ -144,3 +145,7 @@ This project is for local educational demonstration. The Flask development serve
 ### Login page
 
 ![Experiment 09 login page](screenshots/login-page.png)
+
+### Successful login
+
+![Experiment 09 successful login](screenshots/login-success.png)
