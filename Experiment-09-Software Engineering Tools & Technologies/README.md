@@ -38,6 +38,8 @@ Experiment-09-Software Engineering Tools & Technologies/
 ├── requirements.txt
 ├── .gitignore
 ├── README.md
+├── screenshots/
+│   └── login-page.png
 └── templates/
     └── index.html
 ```
@@ -136,3 +138,9 @@ Registration and login endpoints accept JSON containing `username` and `password
 ## Notes
 
 This project is for local educational demonstration. The Flask development server is not intended for production use. The “Remember me” control is visual only and does not create a persistent login session.
+
+## Screenshots
+
+### Login page
+
+![Experiment 09 login page](screenshots/login-page.png)
