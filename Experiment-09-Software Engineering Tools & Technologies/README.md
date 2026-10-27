@@ -144,3 +144,7 @@ This project is for local educational demonstration. The Flask development serve
 ### Login page
 
 ![Experiment 09 login page](screenshots/login-page.png)
+
+### Successful login
+
+![Successful sign-in screen](screenshots/login-success.png)
